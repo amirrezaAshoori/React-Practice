@@ -1,0 +1,10 @@
+.detail-card img {
+    width: 80%;
+    height: 100%;
+}
+.detail-card{
+    height: 60vh !important;
+}
+.detail-card > div{
+    height: 100%;
+}
